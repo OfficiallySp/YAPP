@@ -4,8 +4,19 @@
     "versions": [
       {
         "id": "1.21-1.0.0",
-        "releasedAt": 1696299585000,
-        "updateType": "minor",
+        "releasedAt": 1721948113000,
+        "updateType": "incompatible",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/project/yapp",
+            "generic": "https://github.com/OfficiallySp/YAPP"
+          }
+        }
+      },
+      {
+        "id": "1.21-1.0.1",
+        "releasedAt": 1721949913000,
+        "updateType": "major",
         "promotions": {
           "downloads": {
             "modrinth": "https://modrinth.com/project/yapp",
