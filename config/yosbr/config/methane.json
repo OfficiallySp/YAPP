@@ -1,0 +1,23 @@
+{
+  "dynamicShading": true,
+  "rebuildSeconds": 20,
+  "modstate": false,
+  "hudrender": false,
+  "useOldLightingEngine": false,
+  "disableToasts": false,
+  "fogSettings": {
+    "persistFogSettings": false,
+    "disableAirFog": false,
+    "disableWaterFog": false,
+    "disableLavaFog": false,
+    "disablePowderedSnowFog": false,
+    "disableThickFog": false,
+    "disableSkyFog": false
+  },
+  "destructiveSettings": {
+    "destructiveweatheroptimizations": true,
+    "DestroyWeather": false,
+    "RenderLayerSkips": false,
+    "DestroyScreens": false
+  }
+}

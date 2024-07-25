@@ -1,0 +1,13 @@
+name = "YAPPcore"
+author = "OfficiallySp"
+version = "1.21-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1f923523ea6d440ce4a6f0c2fbccc42d4967a3ab603d970457d878e8ae66781b"
+
+[versions]
+minecraft = "1.21"
+quilt = "0.26.3"
