@@ -1,0 +1,13 @@
+{
+  "resetToggleKeys": true,
+  "renderMapsInUi": "DEFAULT",
+  "showFpsOverlay": true,
+  "showGameTimeOverlay": false,
+  "enableExperimentalPerformancePatches": true,
+  "showGlowingSettings": true,
+  "dumpIncomingPackets": false,
+  "dumpOutgoingPackets": false,
+  "printPacketExceptions": false,
+  "mapUiSize": 1.0,
+  "mapUiLocation": "TOP"
+}

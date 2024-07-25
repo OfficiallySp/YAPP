@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 8,
+  "currentVersion": "1.21-1.0.1",
+  "modpackName": "YAPP Core",
+  "modpackAuthor": "OfficiallySp",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/OfficiallySp/YAPP/core/updater/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": [],
+    "buttonXOffset": 24,
+    "buttonYOffset": -24
+  }
+}

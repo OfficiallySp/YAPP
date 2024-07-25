@@ -1,6 +1,118 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/FUNDING.yml"
+hash = "66bf17a26de2d1f3592a13bf125347e8f14b740ad223fad37dd6caa609236567"
+
+[[files]]
+file = "LICENSE"
+hash = "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50"
+
+[[files]]
+file = "README.md"
+hash = "8020e6177a773cb3b2a000aa53832d802e9f698e8218bdb4694e44986a4e7104"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "a836df57c1e696f3efaebcfc1fa974f4451d6faa998222baa58e86d3e6a15e69"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "4183b30fd5742c57d8063a63ad95c32770e9bf052910ab77c29c67c58deb0df3"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "baf841a401ef6129b747eb10d43d09547a1d1a5349768445854ce4514abe6d62"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "76405a4a1df02bfbae28654623a6af8c426b693e073ee6e9b5cf93c6a1945d65"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "536c5fca488981dd0aa559f5f8694202d8bd10d5139d202c9b8298410be169b4"
+
+[[files]]
+file = "config/languagereload.json"
+hash = "6d2c617cd1f71435fbcd8707b829f0cdd75e6695e517f879c44c795818a89b03"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/methane.json"
+hash = "e30a07ccc84e84719cc68475b2a45a919014ffbed0d062f54254f609a7dc88c5"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "e311f293fc8392dbc0de079d09762ac356b84581476a2c2ba88db6328be1f702"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "cef1cc4f55d9c174dbff8650b06941b32153250a4cfd5f628c05e6a154cf45e0"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "b237db49ebdcb283063af47cbe38a44c860609d95f9fde9501388951e1cc4487"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "2b73c0d0059a01855c69ccc51dc7fb7a762a535a44746e6d29b07f48e877a9ad"
+
+[[files]]
+file = "config/noxesium-config.json"
+hash = "f55122f11e49ac6573f2b86e690a2dbaea08f106ca246b03feb8ef16713ca7c9"
+
+[[files]]
+file = "config/nvidium-config.json"
+hash = "6d1530de9c90286a39df5aee9bc0812953fe974d208d5f395f29e4b91a853126"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "d45d0597e80641fdd12d1f05efbf9f189cf7d258f8b37e9e4d5680469e5ae326"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "0ad7fdf0d59ebf39b5a55e3bbac3c7b8a5f372311329333e3caf9eba49191457"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "ba2f3f1306ff4754e2647c23da7be159462685a13eae0aba93108a64ebe4aa23"
+
+[[files]]
+file = "config/smoke_suppression.json"
+hash = "251207927a5b9c2196be31ac0fe1bc20ce8361aab234701fb14ea23c6608761e"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "30af20bef669ff697c57c3d3c2faa8d77c5e0440e4cc363c86e25ca5b9ba31a8"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cca7077b4a672ed64272986ab95cbd9fe556e962a0c231b160d53435f829dfbe"
+
+[[files]]
+file = "config/stutterfix-config.json"
+hash = "767f4d910a05e8fcd6e125d124b092e2024568e85ce1968e4f5b408cb4269ff9"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "71a8c90e6e8e431592b0743e7a34c09fc0ab38dde74a69e4f63f99eb2a911bfe"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "a836df57c1e696f3efaebcfc1fa974f4451d6faa998222baa58e86d3e6a15e69"
 
@@ -102,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a0c4bc9fb1908456ca502f0e106db9b63a87be2319bd02fbf1a50169c34206fc"
+hash = "a60cea678fb0b083a938025b7aaf5b92b40377308666e6f3446364aca2831827"
 metafile = true
 
 [[files]]
@@ -219,3 +331,19 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a4f316a31f161a4736e39f2dce953fa5fdb3cf9f45a6d4318ff03d3f0ed56605"
+
+[[files]]
+file = "updater/meta.json"
+hash = "b03bb109b034f70b02b1bfa82bd684e304c32d41ca1b73682b2dc1440f161543"
+
+[[files]]
+file = "updater/versions/1.21-1.0.0/changelog.txt"
+hash = "38c1fb60f69cf5b525500782b5ac0eaf0b4b8f0fcf4fa6f8cde96d83c316e07c"
+
+[[files]]
+file = "updater/versions/1.21-1.0.1/changelog.txt"
+hash = "f3648db12f9fe606f89a45a1b8cb235bf4692a6fe5b75d1da034d1da188fee54"
