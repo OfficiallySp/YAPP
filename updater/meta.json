@@ -3,14 +3,28 @@
     "hotfixesFormat": null,
     "versions": [
       {
-        "id": "1.0.0",
+        "id": "1.21-1.0.0",
         "releasedAt": 1696299585000,
-        "updateType": "minor"
+        "updateType": "minor",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/project/yapp",
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yet-another-personal-player-mod",
+            "generic": "https://github.com/YaLTeR/yet-another-personal-player-mod/releases/tag/1.21-1.0.0"
+          }
+        }
       },
       {
-        "id": "1.0.1",
+        "id": "1.21-1.0.1",
         "releasedAt": 1697681985000,
-        "updateType": "minor"
+        "updateType": "minor",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/project/yapp",
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/yet-another-personal-player-mod",
+            "generic": "https://github.com/YaLTeR/yet-another-personal-player-mod/releases/tag/1.21-1.0.0"
+          }
+        }
       }
     ]
   }
