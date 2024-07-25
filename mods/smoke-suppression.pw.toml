@@ -1,0 +1,13 @@
+name = "Smoke Suppression"
+filename = "smoke-suppression-1.1.0+MC1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f774c54edbdd757e71e808482527b14607b41296"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5525061
+project-id = 440468

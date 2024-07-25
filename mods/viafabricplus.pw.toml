@@ -1,0 +1,13 @@
+name = "ViaFabricPlus"
+filename = "ViaFabricPlus-3.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9affa01c7dfb35bc69149de0b62f7a7125c6320b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5547341
+project-id = 830604

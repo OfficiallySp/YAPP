@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.21-Fabric-15.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff73ff3164f1724000097a5cdec82bf7877ffc74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5529527
+project-id = 324717

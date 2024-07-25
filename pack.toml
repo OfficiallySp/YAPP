@@ -1,0 +1,13 @@
+name = "YAPPplus"
+author = "OfficiallySp"
+version = "1.21-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a99df5d8102081b9fdaae234f1dc98e5ad872f2395692d98995a998aefdf803e"
+
+[versions]
+minecraft = "1.21"
+quilt = "0.26.3"

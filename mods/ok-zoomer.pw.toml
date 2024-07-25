@@ -1,0 +1,13 @@
+name = "Ok Zoomer - It's Zoom!"
+filename = "OkZoomer-Fabric-9.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88ef1bda3857465f716096f7ef8386f514985071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428420
+project-id = 354047
