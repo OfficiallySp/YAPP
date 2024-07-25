@@ -1,0 +1,3 @@
+- Fixed the updater not picking up the correct repository
+- Fixed mod configs not loading
+- Fixed the mod menu button overlapping the updater
