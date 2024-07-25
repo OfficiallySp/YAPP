@@ -1,6 +1,234 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/FUNDING.yml"
+hash = "66bf17a26de2d1f3592a13bf125347e8f14b740ad223fad37dd6caa609236567"
+
+[[files]]
+file = "LICENSE"
+hash = "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50"
+
+[[files]]
+file = "README.md"
+hash = "8020e6177a773cb3b2a000aa53832d802e9f698e8218bdb4694e44986a4e7104"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "a836df57c1e696f3efaebcfc1fa974f4451d6faa998222baa58e86d3e6a15e69"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "4183b30fd5742c57d8063a63ad95c32770e9bf052910ab77c29c67c58deb0df3"
+
+[[files]]
+file = "config/debugify-descriptions.json"
+hash = "05b769edcd89896aa8d0268712641279bff03ca5df0b9440dfe88024d04b5f9d"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "baf841a401ef6129b747eb10d43d09547a1d1a5349768445854ce4514abe6d62"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "7a98e25230e114077f5fec8704eef92dd5de59c124c44c79a5a9c21f5cae1665"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "536c5fca488981dd0aa559f5f8694202d8bd10d5139d202c9b8298410be169b4"
+
+[[files]]
+file = "config/iris.properties"
+hash = "ca4c2e7dd1f2f57ade2e9bc03ec322ec4c354e323640691492f66777cf9eda52"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "274710eb90576ac7a01517786fe6e5bfaf088d7521b610336e7f8c5e1938a422"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "4cde153409c59ec5b512cdeb97e9c251f8f2cfdc026c7bba043f928d44a3ea49"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c502ee311117ae1450eda6e42f6907b9d62048c5377801442f8dabc4fe2b7426"
+
+[[files]]
+file = "config/languagereload.json"
+hash = "6d2c617cd1f71435fbcd8707b829f0cdd75e6695e517f879c44c795818a89b03"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/methane.json"
+hash = "e30a07ccc84e84719cc68475b2a45a919014ffbed0d062f54254f609a7dc88c5"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "e311f293fc8392dbc0de079d09762ac356b84581476a2c2ba88db6328be1f702"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "6e713f1c6bf5405c8eda2d5f385ad98a250f7916926d88fa8b355a0e51de3fe2"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "0ee3ea974681c8d36743898e85f188499afc8750e23458333872b944d2c3d54f"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "b237db49ebdcb283063af47cbe38a44c860609d95f9fde9501388951e1cc4487"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "2b73c0d0059a01855c69ccc51dc7fb7a762a535a44746e6d29b07f48e877a9ad"
+
+[[files]]
+file = "config/noxesium-config.json"
+hash = "f55122f11e49ac6573f2b86e690a2dbaea08f106ca246b03feb8ef16713ca7c9"
+
+[[files]]
+file = "config/nvidium-config.json"
+hash = "6d1530de9c90286a39df5aee9bc0812953fe974d208d5f395f29e4b91a853126"
+
+[[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "d4753446e1f8d5b0a6758db90b004ea2b20f90139201c716fc0dddfc363170d6"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "d45d0597e80641fdd12d1f05efbf9f189cf7d258f8b37e9e4d5680469e5ae326"
+
+[[files]]
+file = "config/ryoamiclights.toml"
+hash = "990b11bd51e5a850846437fec9c23ea60e8c3324155266c0eeb9872bc7bdc6a2"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "0ad7fdf0d59ebf39b5a55e3bbac3c7b8a5f372311329333e3caf9eba49191457"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "ba2f3f1306ff4754e2647c23da7be159462685a13eae0aba93108a64ebe4aa23"
+
+[[files]]
+file = "config/smoke_suppression.json"
+hash = "251207927a5b9c2196be31ac0fe1bc20ce8361aab234701fb14ea23c6608761e"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "919c7313aa8e8f253b554b090824c6cf188c58bcad0a07e4319bf47049c1b98e"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cca7077b4a672ed64272986ab95cbd9fe556e962a0c231b160d53435f829dfbe"
+
+[[files]]
+file = "config/stutterfix-config.json"
+hash = "767f4d910a05e8fcd6e125d124b092e2024568e85ce1968e4f5b408cb4269ff9"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viaaprilfools.yml"
+hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabackwards.yml"
+hash = "61ad6266ee051f5d2cd8fa523d464fff4d85add173a079a0054ab4e987dc9e81"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock.yml"
+hash = "a65346a97415ad5a6260b64a8882d9f4aff6375830ee423e9380d2dcd7114ecc"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/000005.sst"
+hash = "897a2e0bd4636eb3b483b4be282e8a88c14cd428cb1438d318530131671a6ee5"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/000006.log"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/CURRENT"
+hash = "0861415cada612ea5834d56e2cf1055d3e63979b69eb71d32ae9ae394d8306cd"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/LOCK"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viabedrock/blob_cache/MANIFEST-000004"
+hash = "0d7634dfa65b50da5e83dab73f24ab218a16964f47785fb5c2caf3b64a4c2651"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/vialegacy.yml"
+hash = "93457a4d731ecf9fcbdd2fa592ae2156ad88e649e39a647714c091852e365aca"
+
+[[files]]
+file = "config/viafabricplus/ViaLoader/viaversion.yml"
+hash = "a40116353502fec34e39a44ebc8450c3b006e12011c9af613f13a1c74ce23390"
+
+[[files]]
+file = "config/viafabricplus/accounts.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/viafabricplus/settings.json"
+hash = "ae8fd7c88d1994daaf12d0008ce9fb88b3bedc3a273eb094f3b5c3067f5599e4"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "71a8c90e6e8e431592b0743e7a34c09fc0ab38dde74a69e4f63f99eb2a911bfe"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "a836df57c1e696f3efaebcfc1fa974f4451d6faa998222baa58e86d3e6a15e69"
 
@@ -81,6 +309,10 @@ file = "config/yosbr/options.txt"
 hash = "a4f316a31f161a4736e39f2dce953fa5fdb3cf9f45a6d4318ff03d3f0ed56605"
 
 [[files]]
+file = "mods/JNativeHook-2.2.2.x86_64.dll"
+hash = "b8c331c9f915960201da9af9c9dc8309e95e7d533741e71f4a5d13ca007d3e18"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9c51c528f84059dc15aa095568e3bd6d8a22fc4e6feb8583a5f8a467d25253e1"
 metafile = true
@@ -122,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a0c4bc9fb1908456ca502f0e106db9b63a87be2319bd02fbf1a50169c34206fc"
+hash = "a60cea678fb0b083a938025b7aaf5b92b40377308666e6f3446364aca2831827"
 metafile = true
 
 [[files]]
@@ -303,3 +535,19 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a4f316a31f161a4736e39f2dce953fa5fdb3cf9f45a6d4318ff03d3f0ed56605"
+
+[[files]]
+file = "updater/meta.json"
+hash = "ff95acd3ca732545e3790a567202d7f20af3a90f41caedaf1dbb262c8b8b2af5"
+
+[[files]]
+file = "updater/versions/1.21-1.0.0/changelog.txt"
+hash = "38c1fb60f69cf5b525500782b5ac0eaf0b4b8f0fcf4fa6f8cde96d83c316e07c"
+
+[[files]]
+file = "updater/versions/1.21-1.0.1/changelog.txt"
+hash = "7bac32dd2ce5adc8535fca40e050912db0a1d5c323a45f8645bd73089c05a2df"
