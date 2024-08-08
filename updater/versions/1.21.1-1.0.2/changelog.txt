@@ -1,0 +1,12 @@
+# preliminary support for 1.21.1 is available.
+this is a minor update and as such worldsaves are unaffected
+
+- fixed a bug where dynamicfps was unable to load
+- fixed a bug where dynamicfps would be prompted to install as an optional mod.
+
+**The following mods have been updated in this release**
+- updated dynamic fps to 3.6.3
+- updated immediatelyfast to 1.2.19
+- updated modernfix to 5.19.0
+- updated modpackupdatechecker to 0.14.0
+- updated stutterfix to 0.2.3

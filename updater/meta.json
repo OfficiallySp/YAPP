@@ -23,6 +23,17 @@
             "generic": "https://github.com/OfficiallySp/YAPP"
           }
         }
+      },
+      {
+        "id": "1.21.1-1.0.2",
+        "releasedAt": 1721949913000,
+        "updateType": "minor",
+        "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/project/yapp",
+            "generic": "https://github.com/OfficiallySp/YAPP"
+          }
+        }
       }
     ]
   }
