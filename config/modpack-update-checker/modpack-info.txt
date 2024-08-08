@@ -1,3 +1,3 @@
 This is the YAPP update module. check new versions and breaking changes across all versions here
 
-You are currently using: YAPP Core for Minecraft 1.21
+You are currently using: YAPP Core for Minecraft 1.21 + 1.21.1

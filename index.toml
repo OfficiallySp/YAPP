@@ -21,6 +21,10 @@ file = "config/c2me.toml"
 hash = "4183b30fd5742c57d8063a63ad95c32770e9bf052910ab77c29c67c58deb0df3"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "baf841a401ef6129b747eb10d43d09547a1d1a5349768445854ce4514abe6d62"
 
@@ -30,7 +34,7 @@ hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "76405a4a1df02bfbae28654623a6af8c426b693e073ee6e9b5cf93c6a1945d65"
+hash = "98746f01c4f26823e35fc3504a8b5879a8ea726e3afcfca6a72c07eb17b4f54d"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -58,11 +62,11 @@ hash = "e311f293fc8392dbc0de079d09762ac356b84581476a2c2ba88db6328be1f702"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "cef1cc4f55d9c174dbff8650b06941b32153250a4cfd5f628c05e6a154cf45e0"
+hash = "5595582b96a9c4e6bfbc944557d15f976e5c5c58cc627c07c2d24720601b4cf3"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
-hash = "b237db49ebdcb283063af47cbe38a44c860609d95f9fde9501388951e1cc4487"
+hash = "ef45ce1f96ea2850290f706851320e152a9aa89df9e47885a7874b9d3a0b9745"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -102,15 +106,15 @@ hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "cca7077b4a672ed64272986ab95cbd9fe556e962a0c231b160d53435f829dfbe"
+hash = "667d48fcc18a3955268f261b12f3b61945093491bdb35c293d7c961e9b015ba3"
 
 [[files]]
 file = "config/stutterfix-config.json"
-hash = "767f4d910a05e8fcd6e125d124b092e2024568e85ce1968e4f5b408cb4269ff9"
+hash = "f79b6b58ebe02c51f5e107f655f1b91a1827f1f4108034b6d77a1006d07c622b"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "71a8c90e6e8e431592b0743e7a34c09fc0ab38dde74a69e4f63f99eb2a911bfe"
+hash = "9c24338a797f4ef4d2759c835fb9c0c4af57e4994224b304df9625c5874dac66"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a60cea678fb0b083a938025b7aaf5b92b40377308666e6f3446364aca2831827"
+hash = "3da1cdbf67a01562d4d7f50d3494c76b68774c656a2eeb03223105b054a41719"
 metafile = true
 
 [[files]]
@@ -239,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f2e310134bb9ceaeb04b663da62efdfecf2bb512e248894fd5876314232450"
+hash = "358423e60005f3c7ac71a16aaf9631e76de37c2be548098f8173c98acdb271b5"
 metafile = true
 
 [[files]]
@@ -268,12 +272,12 @@ hash = "dc73a88fa9e946b47a1f16b6dedf5fb9d3a3bc5eec73791fcbea9fe584918b3d"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c95b76aed6335673345563f5ccabed7a508b50e46b266c6839fc18787e83016f"
+hash = "9e90cb263fc7e19f7ff9191e9658c7877422d3d0352f8f3ffbae43f35e86ae37"
 metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "7916de4e713e855e0a669d04a48314e482cfd5480647a7a43df2180eb701b4a8"
+hash = "5ad2a1a0ff258ca6c3305a5d6e82164a9d5b9d4c76dee8daf97877d125972575"
 metafile = true
 
 [[files]]
@@ -318,6 +322,10 @@ file = "mods/stutterfix-mc1.21-0.2.2.jar"
 hash = "04443e3d307137da5a4edaf5cf915e6c81a1499c7be0a0d169aa6338a1bb3ed3"
 
 [[files]]
+file = "mods/stutterfix-mc1.21-0.2.3.jar"
+hash = "5cbea2a6bf5a92bf536d5eebe1530c42aafb46fcbc11e72271d096debf302f6d"
+
+[[files]]
 file = "mods/vanillaicecreamfix.pw.toml"
 hash = "078ccf3800786285ab639be28656bd24c8a43bec9f905c857f7f05db949d5638"
 metafile = true
@@ -334,11 +342,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a4f316a31f161a4736e39f2dce953fa5fdb3cf9f45a6d4318ff03d3f0ed56605"
+hash = "7fd29c03d826ac042213bddc7591d12e7e470d03ba9dd29524c1f12ed17f93a2"
 
 [[files]]
 file = "updater/meta.json"
-hash = "b03bb109b034f70b02b1bfa82bd684e304c32d41ca1b73682b2dc1440f161543"
+hash = "170c3e96ff47820a7c4e08e7278dd3949d89d1940f34f6e7b081d9db2c0bf7b5"
 
 [[files]]
 file = "updater/versions/1.21-1.0.0/changelog.txt"

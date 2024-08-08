@@ -3,5 +3,6 @@
   "main_worker_executor_priority_cut": 5,
   "render_thread_priority": 10,
   "server_thread_priority": 8,
-  "render_remove_yield": true
+  "render_remove_yield": true,
+  "hide_gui": false
 }
